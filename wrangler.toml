@@ -6,7 +6,7 @@ compatibility_date = "2026-01-01"
 AGENT_NAME = "h3r4"
 BOT_USERNAME = "He2aBot"
 IS_COORDINATOR = "false"
-GROUP_CHAT_ID = "-1004427380000"
+GROUP_CHAT_ID = "-4427380000"
 OWNER_ID = "1605070949"
 MODEL = "@cf/meta/llama-3.1-8b-instruct"
 
